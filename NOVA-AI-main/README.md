@@ -117,14 +117,14 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Imran Ahmad Mir**
+**Vansh Sharma**
 
 - 💼 B.Tech Student
 - 💻 Front-End & Full-Stack Developer
 - 🌱 Learning React, Node.js,Python, Express, SQL, and AI Integration
 
 GitHub:
-https://github.com/Imran123-code
+https://github.com/VanshSharma117
 
 ---
 
